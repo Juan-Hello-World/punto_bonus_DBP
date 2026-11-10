@@ -1,0 +1,10 @@
+Hello Alice Smith,
+
+Your booking was successful! 
+
+The booking is for flight LA123 with departure date of 2026-12-01T10:00:00.000+00:00 and arrival date of 2026-12-01T14:00:00.000+00:00.
+
+The booking was registered at 2026-06-22T14:50:14.368+00:00.
+
+Bon Voyage!
+Fly Away Travel
